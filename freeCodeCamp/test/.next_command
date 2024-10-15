@@ -46,3 +46,9 @@ cd freeCodeCamp
 cd test
 test
 pwd
+freecodecamp
+FreeCodeCamp
+test FreeCodeCamp
+list
+freecodecamp
+ls --color=auto
