@@ -33,3 +33,7 @@ echo hello terminal
 pwd
 ls --color=auto
 cd freeCodeCamp
+freeCodeCamp
+print working directory
+print working directory
+pwd freeCodeCamp
