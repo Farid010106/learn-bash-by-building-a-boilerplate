@@ -38,3 +38,9 @@ print working directory
 print working directory
 pwd freeCodeCamp
 ls --color=auto freeCodeCamp
+test
+cd folder-name
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+cd freeCodeCamp
+cd test
