@@ -65,3 +65,4 @@ cd..
 cd /workspace/project/freeCodeCamp/test
 freeCodeCamp
 cd ..
+ls --color=auto
