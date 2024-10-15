@@ -37,3 +37,4 @@ freeCodeCamp
 print working directory
 print working directory
 pwd freeCodeCamp
+ls --color=auto freeCodeCamp
