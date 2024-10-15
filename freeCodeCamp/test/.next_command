@@ -52,3 +52,16 @@ test FreeCodeCamp
 list
 freecodecamp
 ls --color=auto
+cd freeCodeCamp
+cd
+cd ..
+cd..
+cd ..
+cd test
+cd test/
+test
+cd .. freeCodeCamp
+cd..
+cd /workspace/project/freeCodeCamp/test
+freeCodeCamp
+cd ..
